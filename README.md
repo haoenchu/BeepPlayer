@@ -25,9 +25,9 @@
 * **開發語言**：C# 
 * **視窗框架**：Windows Forms (WinForms)
 * **關鍵技術**：
-    **P/Invoke**：引用 `System.Runtime.InteropServices` 來使用 Win32 API [cite: 170]。
-    **事件驅動**：利用 `SizeChanged` 事件觸發介面重繪邏輯 [cite: 252, 254]。
-    **資料結構**：使用 `Dictionary` 實現對控制項狀態的高效管理 [cite: 241]。
+    **P/Invoke**：引用 `System.Runtime.InteropServices` 來使用 Win32 API 。
+    **事件驅動**：利用 `SizeChanged` 事件觸發介面重繪邏輯。
+    **資料結構**：使用 `Dictionary` 實現對控制項狀態的高效管理 。
 
 ---
 
